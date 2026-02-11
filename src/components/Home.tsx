@@ -42,7 +42,7 @@ export default function Home({ id }: { id: string }) {
         className="mt-4 flex gap-4"
       >
         <a
-          href="https://github.com/fshju"
+          href="https://github.com/Shahrukh-Ishtiaq"
           target="_blank"
           className="px-4 py-2 hover:border-black border bg-no-repeat bg-right bg-[length:0%_100%] hover:bg-[length:100%_100%] hover:bg-left transition-all duration-500 bg-gradient-to-r from-purple-500 to-purple-700 rounded-lg"
         >
@@ -63,7 +63,7 @@ export default function Home({ id }: { id: string }) {
         transition={{ duration: 0.5, delay: 0.4 }}
         className="flex gap-4 mt-4"
       >
-        <a href="https://github.com/fshju" target="_blank">
+        <a href="https://github.com/Shahrukh-Ishtiaq" target="_blank">
           <FaGithub className="w-6 h-6 cursor-pointer transition duration-300 hover:text-gray-400" />
         </a>
         <a href="https://www.linkedin.com/in/shahrukh-ishtiaq-2534a524b" target="_blank">
