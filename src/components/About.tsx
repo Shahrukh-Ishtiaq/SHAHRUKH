@@ -10,7 +10,7 @@ const AboutMe = ({ id }: { id: string }) => {
   }, []);
 
   const handleOpenCV = () => {
-    const fileUrl = "https://drive.google.com/file/d/1liz8j1UGpyVUGKVWtltEHdIENjSu-Ohk/view?usp=drivesdk"; 
+    const fileUrl = ""; 
     window.open(fileUrl, "_blank"); 
   };
 
